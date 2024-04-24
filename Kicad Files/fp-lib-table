@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/samue/OneDrive/Documents/KiCad/Project Libraries/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Type-C.pretty-master")(type "KiCad")(uri "C:/Users/samue/OneDrive/Documents/KiCad/Project Libraries/Type-C.pretty-master/Type-C.pretty-master")(options "")(descr ""))
+  (lib (name "random-keyboard-parts.pretty-master")(type "KiCad")(uri "C:/Users/samue/OneDrive/Documents/KiCad/Project Libraries/random-keyboard-parts.pretty-master/random-keyboard-parts.pretty-master")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/samue/Downloads/781710004/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "0781710004")(type "KiCad")(uri "C:/Users/samue/Downloads/0781710004")(options "")(descr ""))
+  (lib (name "MX_Hotswap")(type "KiCad")(uri "C:/Users/samue/OneDrive/Documents/KiCad/Project Libraries/MX_V2-main/MX_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors.pretty-master")(type "KiCad")(uri "${KIPRJMOD}/acheron_Connectors.pretty-master")(options "")(descr ""))
+)

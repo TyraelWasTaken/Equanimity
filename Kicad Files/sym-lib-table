@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/samue/OneDrive/Documents/KiCad/Project Libraries/MX_Alps_Hybrid-master/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/samue/OneDrive/Documents/KiCad/Project Libraries/random-keyboard-parts.pretty-master/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "C:/Users/samue/OneDrive/Documents/KiCad/Project Libraries/Type-C.pretty-master/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name "2024-02-25_10-42-41")(type "KiCad")(uri "C:/Users/samue/Downloads/ul_781710004(1)/KiCADv6/2024-02-25_10-42-41.kicad_sym")(options "")(descr ""))
+  (lib (name "0781710004")(type "KiCad")(uri "C:/Users/samue/Downloads/0781710004/0781710004.kicad_sym")(options "")(descr ""))
+)
