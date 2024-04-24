@@ -1,5 +1,5 @@
 # Equanimity
-##Equanimity is a 65%, gasket mounted, alice style keyboard with a knob.
+## Equanimity is a 65%, gasket mounted, alice style keyboard with a knob.
 
 ![](https://github.com/TyraelWasTaken/Equanimity/blob/main/Renders/Alice_Keyboard_2024-Mar-21_06-38-16PM-000_CustomizedView23687820486.png)
 
