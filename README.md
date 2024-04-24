@@ -13,3 +13,5 @@ Equanimity uses cherry switches with kailh hotswap sockets, and the standard EC1
 Also, the project uses a C series unified daughterboard with JST connectors.
 
 The "symbol" for the equanimity is a water lily.
+
+![](https://github.com/TyraelWasTaken/Equanimity/blob/main/Renders/Alice_Keyboard_2024-Mar-21_06-39-31PM-000_CustomizedView29144459310.png)
