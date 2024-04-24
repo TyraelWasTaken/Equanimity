@@ -1,6 +1,8 @@
 # Equanimity
 Equanimity is a 65%, gasket mounted, alice style keyboard with a knob.
-!(https://github.com/TyraelWasTaken/Equanimity/blob/main/Renders/Alice_Keyboard_2024-Mar-21_06-38-16PM-000_CustomizedView23687820486.png)
+
+![](https://github.com/TyraelWasTaken/Equanimity/blob/main/Renders/Alice_Keyboard_2024-Mar-21_06-38-16PM-000_CustomizedView23687820486.png)
+
 There was no design goals for the project, it was simply what I wanted to see in a keyboard.
 
 It is fully Open-Source, all files I have used to make my own I have published for everyone else to enjoy.
