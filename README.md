@@ -14,4 +14,6 @@ Also, the project uses a C series unified daughterboard with JST connectors.
 
 The "symbol" for the equanimity is a water lily.
 
+If you wish to build this or have any inquiries please contact me via discord and I will help you with the project.
+
 ![](https://github.com/TyraelWasTaken/Equanimity/blob/main/Renders/Alice_Keyboard_2024-Mar-21_06-39-31PM-000_CustomizedView29144459310.png)
