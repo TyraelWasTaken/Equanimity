@@ -1,6 +1,6 @@
 # equanimity
 
-![equanimity](https://imgur.com/kIGyOi4)
+![equanimity](https://i.imgur.com/kIGyOi4.png)
 
 Arisu-ish Alice keyboard with an EC11 and some accent keys, staggered.
 
